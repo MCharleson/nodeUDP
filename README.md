@@ -1,6 +1,6 @@
 nodeUDP
 =======
-Test Node UDP messaging for Unity multi-player games
+Test Node.js UDP messaging for Unity multi-player games
 
 * Just basic ideas for now
 * UnityUDPserver.js = Node.js server example code crude but working
